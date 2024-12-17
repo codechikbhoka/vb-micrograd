@@ -1,6 +1,6 @@
 # Neural Network Implementation
 
-A Python implementation of a neural network from scratch, demonstrating the fundamentals of deep learning with a focus on backpropagation and gradient descent.
+A Python implementation of a neural network from scratch, demonstrating the fundamentals of deep learning with a focus on back-propagation and gradient descent.
 
 ## Overview
 
